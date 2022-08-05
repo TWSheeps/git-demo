@@ -11,7 +11,7 @@ public class Dept {
 
     public Dept() {
     }
-
+    void inta(){}
     @Override
     public String toString() {
         return "Dept{" +

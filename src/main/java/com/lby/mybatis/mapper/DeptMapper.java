@@ -6,4 +6,5 @@ package com.lby.mybatis.mapper;
  * @create 2022-07-29 21:30
  */
 public interface DeptMapper {
+
 }
