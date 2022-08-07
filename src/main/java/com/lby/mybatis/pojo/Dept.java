@@ -14,6 +14,7 @@ public class Dept {
     void inta(){}
     void initB(){}
     void initC(){}
+    void initE(){}
     @Override
     public String toString() {
         return "Dept{" +
